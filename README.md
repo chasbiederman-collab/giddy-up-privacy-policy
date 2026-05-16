@@ -26,7 +26,7 @@ Privacy Policy for GiddyUp Farrier
   </p>
 
   <p>
-    If you have questions, contact: your-email@example.com
+    If you have questions, contact: chas.biederman@gmail.com
   </p>
 </body>
 </html>
